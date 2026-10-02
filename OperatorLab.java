@@ -2,7 +2,7 @@ public class OperatorLab {
    
     public static void main(String[] args) {
         // Lägg övningens kod här.
-       /*  int a = 10;
+        int a = 10;
         int b = 3;
         int number = 18;
 
